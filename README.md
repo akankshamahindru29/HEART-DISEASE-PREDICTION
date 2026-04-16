@@ -4,6 +4,7 @@ In addition to prediction, the system includes data visualization features such 
 This project demonstrates the practical application of machine learning in the healthcare domain and aims to assist in early detection and decision-making for heart disease risk.
  
 Tech Stack
+
 Programming Language: Python  
 Development Environment:Google Colab  
 Libraries:
@@ -11,6 +12,7 @@ Pandas (Data handling),NumPy (Numerical operations),Scikit-learn (Machine Learni
 Version Control:Git & GitHub  
 
 Features
+
 1.User-friendly input system to enter patient health details  
 2.Predicts the likelihood of heart disease using machine learning models  
 3.Supports multiple health parameters like age, blood pressure, cholesterol, etc.  
