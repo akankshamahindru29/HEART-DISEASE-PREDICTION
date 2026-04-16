@@ -9,3 +9,14 @@ Development Environment:Google Colab
 Libraries:
 Pandas (Data handling),NumPy (Numerical operations),Scikit-learn (Machine Learning models),Matplotlib (Data visualization),Seaborn (Statistical graphs & heatmaps)  
 Version Control:Git & GitHub  
+
+Features
+User-friendly input system to enter patient health details  
+Predicts the likelihood of heart disease using machine learning models  
+Supports multiple health parameters like age, blood pressure, cholesterol, etc.  
+Data preprocessing and cleaning for accurate predictions  
+Visualization of data using graphs and charts  
+Correlation heatmap to understand feature relationships  
+Model performance evaluation (accuracy, confusion matrix)  
+Fast and efficient prediction results  
+Runs easily on Google Colab without complex setup  
