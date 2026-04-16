@@ -11,12 +11,12 @@ Pandas (Data handling),NumPy (Numerical operations),Scikit-learn (Machine Learni
 Version Control:Git & GitHub  
 
 Features
-User-friendly input system to enter patient health details  
-Predicts the likelihood of heart disease using machine learning models  
-Supports multiple health parameters like age, blood pressure, cholesterol, etc.  
-Data preprocessing and cleaning for accurate predictions  
-Visualization of data using graphs and charts  
-Correlation heatmap to understand feature relationships  
-Model performance evaluation (accuracy, confusion matrix)  
-Fast and efficient prediction results  
-Runs easily on Google Colab without complex setup  
+1.User-friendly input system to enter patient health details  
+2.Predicts the likelihood of heart disease using machine learning models  
+3.Supports multiple health parameters like age, blood pressure, cholesterol, etc.  
+4.Data preprocessing and cleaning for accurate predictions  
+5.Visualization of data using graphs and charts  
+6.Correlation heatmap to understand feature relationships  
+7.Model performance evaluation (accuracy, confusion matrix)  
+8.Fast and efficient prediction results  
+9.Runs easily on Google Colab without complex setup  
